@@ -1,9 +1,10 @@
 <template>
-  <header class="sticky top-0 z-50">
+  <div class="overflow-x-hidden">
+    <header class="sticky top-0 z-50">
     <h1 class="p-5 bg-slate-900 text-[#9AEDFF] text-center text-xl w-screen shadow-sm">Convox Themed Sample
       Components</h1>
   </header>
-  <main class="p-4">
+  <main class="p-5" >
     <ButtonsList />
     <Checkboxes />
     <Inputs />
@@ -12,6 +13,8 @@
     <Toasters />
     <Charts />
   </main>
+  </div>
+
 </template>
 
 <style scoped></style>

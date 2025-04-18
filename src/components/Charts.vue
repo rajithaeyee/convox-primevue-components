@@ -1,7 +1,7 @@
 <template>
     <Fieldset legend="Charts">
         <div class="p-10">
-            <Chart type="line" :data="chartData" :options="chartOptions" class="h-[30rem]" />
+                <Chart type="line" :data="chartData" :options="chartOptions" class="h-[30rem] w-3xl" />
         </div>
     </Fieldset>
 
