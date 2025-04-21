@@ -15,6 +15,7 @@ app.use(PrimeVue, {
         preset: ConvoxPreset,
         options: {
             prefix: 'convox',
+            darkModeSelector: false || 'none',
             order: 'app-styles, primevue'
         },
         
