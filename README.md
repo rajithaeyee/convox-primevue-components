@@ -1,6 +1,6 @@
 # convox-primevue-components
 
-A simple demo showcasing the adoption of [PrimeVue](https://www.primefaces.org/primevue/) for the Convox Console revamp.
+A simple demo showcasing the adoption of [PrimeVue](https://www.primefaces.org/primevue/) for the [Convox Console](https://console.convox.com/) revamp.
 
 > ⚠️ This project focuses only on the **look and feel** — functionality and integrations are not included.
 
