@@ -1,41 +1,9 @@
 # convox-primevue-components
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple demo showcasing the adoption of [PrimeVue](https://www.primefaces.org/primevue/) for the [Convox Console](https://console.convox.com/) revamp.
 
-## Recommended IDE Setup
+> ⚠️ This project focuses only on the **look and feel** — functionality and integrations are not included.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📦 Features
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- 🎨 UI prototyping using PrimeVue components to check the look and feel with the Aura theme.
